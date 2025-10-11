@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <!-- Background -->
+  <rect width="200" height="50" fill="#2E7D32" rx="5"/>
+  
+  <!-- Leaf Icon -->
+  <g transform="translate(15, 15)">
+    <path d="M10 0C5 5 0 10 0 15C0 20 5 25 10 25C15 25 20 20 20 15C20 10 15 5 10 0Z" fill="#4CAF50"/>
+    <path d="M10 5L10 20" stroke="#2E7D32" stroke-width="1"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="45" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Farm2Spice</text>
+  <text x="45" y="35" font-family="Arial, sans-serif" font-size="10" fill="#4CAF50">Premium Spices from Ghana</text>
+</svg>
